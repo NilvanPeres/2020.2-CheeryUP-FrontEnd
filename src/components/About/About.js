@@ -28,17 +28,12 @@ function About(){
                     
                 </div>
             </div>
+
+            <div className='linha-vertical'></div>
+
             <div className='aboutImagem'>
-                <img src = '/imagens/Cheery Up !.png' alt='Cereja Feliz' width='100%' height='100%'/>
+                <img src = '/imagens/imagemAbout.png' alt='Imagem-about' width='60%' height='150%'/>
             </div>
-        </div>
-    )
-}
-
-function Texto() {
-    return(
-        <div>
-
         </div>
     )
 }

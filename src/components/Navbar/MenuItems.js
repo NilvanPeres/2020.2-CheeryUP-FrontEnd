@@ -35,7 +35,7 @@ export const MenuItems = [
 export const MenuItemsAlt = [
     {
         title: 'Home',
-        url: 'http://localhost:3000/',
+        url: '/',
         cName: 'nav-linksAlt'
     },
 ]
